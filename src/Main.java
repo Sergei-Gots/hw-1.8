@@ -4,7 +4,7 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("Homework 1.8. Arrays");
 
-        lesson();
+        //lesson();
         task1_2_3();
         task4();
     }
@@ -109,6 +109,7 @@ public class Main {
     }
 
     private static void lesson() {
+        System.out.println("Lesson 8. Arrays");
         int[] monthsWeights = {90, 91, 93, 92, 85, 87, 88, 89, 0, 0, 0, 0};
         int month = 0;
 
