@@ -141,6 +141,5 @@ public class Main {
         }
 
         System.out.println("\n");
-        System.out.println("Amend commit");
     }
 }
